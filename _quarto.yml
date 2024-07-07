@@ -1,19 +1,36 @@
 project:
   type: website
+  output-dir: docs
+  
 
 website:
-  title: "epi_registers"
+  title: "[EPI Directors Annual Meeting, Kinshasa 2024](index.qmd)"
   navbar:
-    left:
+    search: true
+    background: secondary
+    logo: logo/logo-en.svg 
+    logo-href: index.qmd
+    
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: Registrations
+        href: registrations.qmd
+      - text: Schedule
+        href: schedule.qmd
+      - text: Travel
+        href: travel.qmd
+      - text: Contacts 
+        href: about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
+    mainfont: Noto Sans
+    max-width: 2000px
     css: styles.css
     toc: true
+    toc-title: "Jump to"
 
 
 
