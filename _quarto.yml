@@ -26,7 +26,7 @@ website:
 format:
   html:
     theme: simplex
-    mainfont: Noto Sans
+    mainfont: Lato
     max-width: 2000px
     css: styles.css
     toc: true
