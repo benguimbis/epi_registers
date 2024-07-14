@@ -1,34 +1,168 @@
 ---
-title: "Meeting Schedule"
+title: "Agenda"
 format: html
 ---
 
 :::{.callout-note}
-## Day 1: September 1^st^, 2024
+## Jour 1: Journée du 10 septembre 2024
+**Modérateur de la journée: TBC**
 :::
 
-| Time  | Topic                                                      | Presenter|
-|_______|____________________________________________________________|__________|
-|_______|____________________________________________________________|__________|
-|_______|____________________________________________________________|__________|
+| Horaire       | Activité                                                                                                                                                                                                                            | Modérateur                |
+|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| 8 :00-8 :30   | Accueil et enregistrement des participants                                                                                                                                                                                          | Secrétariat               |
+| 8 :30-8 :40   | Briefing administratif                                                                                                                                                                                                              | OMS RDC                   |
+| 8 :40-8 :50   | Briefing de sécurité                                                                                                                                                                                                                | OMS RDC                   |
+| 8 :50-9 :00   | Briefing sur la Prévention du harcèlement, de l'exploitation et des abus sexuels (PHEAS)                                                                                                                                            | OMS RDC                   |
+| 9 :00 -10 :00 | Cérémonie d’ouverture<br/> Allocution  du Représentant de l'OMS-RDC (au nom du Système des Nations Unies)<br/> Allocution Gavi <br/> Allocution d'ouverture du Ministre en charge de la santé de la RDC <br/> Photo de groupre<br/> | Ministère de la santé RDC |
+|               |                                                                                                                                                                                                                                     |                           |
+|               |                                                                                                                                                                                                                                     |                           |
+|               |                                                                                                                                                                                                                                     |                           |
+|               |                                                                                                                                                                                                                                     |                           |
+| 10 :00-10 :30 | Pause-café                                                                                                                                                                                                                          |                           |
+| 10 :30-11 :00 | Présentation des délégations pays et recueil des attentes                                                                                                                                                                           | OMS IST-CA                |
+
+
+
+
+:::{.callout }
+### Session introductive : Situation de la vaccination, de la surveillance des maladies à prévention vaccinale et paysage de financement
+**Modérateur : Directeur du PEV RCA**
+:::
+
+
+| Horaire         | Activité                                                                                                                                  | Modérateur                |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| 11 :00-11 :20   | Point sur le suivi des recommandations de la réunion des Directeurs de PEV d’Afrique centrale de 2023                                     | Directeur du PEV Cameroun |
+| 11 :20-13 :00   | Revue des stands pays avec des Posters résumant la situation de la vaccination et de la surveillance des maladies à prévention vaccinale. |                           |
+| 13 :00 – 14 :00 | Pause-déjeuner                                                                                                                            |                           |
+| 14 :00-14 :20   | GAVI 6.0 : ce qu’il faut savoir                                                                                                           | GAVI                      |
+| 14 :20-14 :40   | Considérations pour la transition et intégration des campagnes de santé vers/avec les soins de santé primaires.                           | OMS HQ                    |
+| 14 :40-15 :00   | Leçons apprises des premières introductions des vaccins antipaludiques en Afrique                                                         | AMVIRA                    |
+| 15 :00 -15 :20  | Discussions                                                                                                                               | Modérateur                |
+| 15 :20-15 :30   | Orientations sur le déroulement des panels de partage d’expérience                                                                        | Directeur PEV RDC         |
+
+
+
+|                     |                                                                                                                 |                   |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------|--------------|
+| **Panel 1: Big Catch-up** |                                                                                                                        |              |
+| 15 :30-15 :50             | Situation des enfants zéro-doses et de la préparation & mise en œuvre des plans rattrapage en Afrique centrale         | OMS IST-CA   |
+| 15 : 50-16 :10            | Vaccins pour le Big Catch-up: situation des commandes pour les pays d’Afrique centrale et orientations pour la gestion | UNICEF WCARO |
+| 16h10-16h30               | Suivi et reporting du rattrapage en matière de vaccination essentielle dans le contexte du Big Catch Up                | OMS/HQ       |
+| 16h30-17h00               | Pause-café                                                                                                             |              |
+| 17 h00 -18 h00            | Présentation des panels des pays : Cameroun, RDC, Angola et Tchad                                                      |              |
+| 18h00-18h20               | Discussions                                                                                                            |              |
 
 
 :::{.callout-note}
-## Day 2: September 2^nd^, 2024
+## Jour 2: Journée du 11 septembre 2024
+**Modérateur de la journée: TBC**
 :::
 
-| Time  | Topic                                                      | Presenter|
-|_______|____________________________________________________________|__________|
-|_______|____________________________________________________________|__________|
-|_______|____________________________________________________________|__________|
+| Horaire      | Activité                        | Modérateur |
+|--------------|---------------------------------|------------|
+| 8 :30 -8 :45 | Synthèse de la première journée |            |
 
+
+:::{.callout }
+### Panel 2: Introduction des nouveaux Vaccin
+**Modérateur : Directeur du PEV Cameroun**
+:::
+
+| Horaire                                | Activité                                                                                                                                                                                                                                                                                                                                                    | Modérateur        |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| Modérateur : Directeur du PEV Cameroun |                                                                                                                                                                                                                                                                                                                                                             |                   |
+| 8 :45 –9:05                            | Mises à jour sur les nouveaux vaccins : hexavalent, DTP Boosters, HPV, Malaria, etc.                                                                                                                                                                                                                                                                        |  OMS/HQ           |
+| 9 :05 –9:25                            | Etat des lieux de l’introduction des nouveaux vaccins de 2020 à 2024                                                                                                                                                                                                                                                                                        | NVI Officer, AFRO |
+| 9 :25 -10 :15                          | Présentation des panelistes des pays sur les leçons apprises de la préparation, mise en œuvre, génération de la demande et évaluation post-introduction, dans le cadre de récentes introduction de nouveaux vaccins ou vaccins sous-utilisés : Burundi (HepB0 & VAR2), Congo (Rota & VPI), Gabon (VPI & Fièvre Jaune) et STP (VPI2 & VAR2), RCA (Hib & VPI) |                   |
+| 10 :15-10 :30                          | Discussion                                                                                                                                                                                                                                                                                                                                                  |                   |
+| 10 :30 -11 :00                         | Pause-café                                                                                                                                                                                                                                                                                                                                                  |                   |
+
+
+
+
+
+:::{.callout }
+### Panel 3: Engagement politique et financement durable de la vaccination
+**Modérateur : Directeur du PEV Burundi**
+:::
+
+
+| Horaire        | Activité                                                                                                                                                                                                                                            | Modérateur                            |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| 11 :00-11 :15  | Statut de la mise en œuvre de l’engagement de ADI N°2 :                                                                                                                                                                                             | OMS AFRO/ Union Africaine/ Africa CDC |
+|                | Augmenter et assurer la durabilité des investissement domestiques et allocations budgétaires sur la vaccination en Afrique.                                                                                                                         |                                       |
+| 11:15 -12:00   | Présentation des panelistes des pays : RDC (Plan Mashako et Déclaration de Kinshasa), Angola (Financement durable de la vaccination), Guinée Equatoriale (Gestion des financements publiques sur la vaccination par les partenaires internationaux) |                                       |
+| 12 :00-13 :00  | Discussions                                                                                                                                                                                                                                         |                                       |
+| 13 :00 -14 :00 | Pause-Déjeuner                                                                                                                                                                                                                                      |                                       |
+
+
+
+:::{.callout }
+### Panel 4:Vaccination Digitale
+**Modérateur : Directeur du PEV Tchad**
+:::
+
+| Horaire          | Activité                                                                                                                                                                                                                                                                                     | Modérateur                              |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| 14 :00 -14 :15   | Expérience de l’Amérique du Sud dans le déploiement des REV et recommandations pour la région africaine                                                                                                                                                                                      | Carolina Danovaro, OMS HQ               |
+| 14 :15 – 14 :30  | SMART Guidelines et application dans la surveillance des MPV                                                                                                                                                                                                                                 | Patricia Ndumbi, Digital Health, OMS HQ |
+| 14:30-14:14:45   | Utilisation de GIS dans l’identification des zones à risque d’enfants zéro-dose                                                                                                                                                                                                              | Roland Ngom, PPHM, OMS AFRO             |
+| 14:45-15:30      | Présentation des panelistes sur la digitalisation dans les programmes de vaccination : Cameroun (planification et enregistrement des données par session de vaccination), RDC (expérimentation du registre électronique), Burundi (gestion de la campagne de vaccination contre la Rougeole) |                                         |
+| 15 :30- 16 :00   | Discussion                                                                                                                                                                                                                                                                                   |                                         |
+| 16 :00-16 :30    | Pause-café                                                                                                                                                                                                                                                                                   |                                         |
+| 16 :30 – 18 : 00 | Réunions parallèles à planifier avec les pays et les partenaires                                                                                                                                                                                                                             |                                         |
 
 :::{.callout-note}
-## Day 3: September 3^rd^, 2024
+## Jour 3: Journée du 12 septembre 2024
+**Modérateur de la journée: TBC**
 :::
 
-| Time  | Topic                                                      | Presenter|
-|_______|____________________________________________________________|__________|
-|_______|____________________________________________________________|__________|
-|_______|____________________________________________________________|__________|
+| Horaire      | Activité                        | Modérateur |
+|--------------|---------------------------------|------------|
+| 8 :30 -8 :45 | Synthèse de la première journée |            |
 
+
+:::{.callout }
+### Panel 5:VPD & Genre
+**Modérateur : Directeur du PEV Congo**
+:::
+
+| Horaire        | Activité                                                                                                                       | Modérateur |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------|------------|
+| 8 :45-9 :00    | Orientations globales sur VPD et Genre                                                                                         | OMS HQ     |
+| 9 :00 – 10 :00 | Présentation des panélistes des pays sur la prise en compte de la dimension genre dans les programmes VPD : STP, Tchad et RCA. |            |
+| 10 :00 -10 :30 | Discussions                                                                                                                    |            |
+| 10 :30-11 :00  | Pause-café                                                                                                                     |            |
+
+
+:::{.callout }
+### Panel 6:Surveillance de la Rougeole
+**Modérateur : TBC**
+:::
+
+| Horaire        | Activité                                                                                                                                        | Modérateur |
+|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 11 :00-11 :15  | Etat des lieux de la situation de la rougeole en Afrique centrale                                                                               | OMS AFRO   |
+| 11 :15-12 :15  | Présentation des panélistes des pays sur la détection et réponse aux épidémies de rougeole : RDC, Cameroun, Guinée Equatoriale, Gabon, Burundi. |            |
+| 12 :15-13 :00  | Discussions                                                                                                                                     |            |
+| 13 :00 -14 :00 | Pause-déjeuner                                                                                                                                  |            |
+
+
+
+
+
+:::{.callout }
+### Travaux de groupes sur les points d’action de la réunion
+**Modérateur : TBC**
+:::
+
+| Horaire        | Activité                                                                                                                                                                                                   | Modérateur |
+|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 14 :00 -14 :10 | Orientations sur les travaux de groupe                                                                                                                                                                     | OMS IST AC |
+| 14 :10-15 :10  | Travaux de groupes sur les points d’action au terme de la réunion des Directeurs de PEV 2024.                                                                                                              |            |
+| 15 :10-16 :10  | Restitution des travaux de groupe                                                                                                                                                                          |            |
+| 16 :10-16 :40  | Pause-café                                                                                                                                                                                                 |            |
+| 16 :40-16 :50  | Evaluation de la réunion par les participants                                                                                                                                                              |            |
+| 16:50-17 :30   | Cérémonie de clôture <br/>Allocution du Représentant de l’UNICEF-RDC (au nom du Système des Nations Unies) <br/>Allocution de Gavi <br/>Allocution de clôture du Ministre en charge de la santé de la RDC. |            |

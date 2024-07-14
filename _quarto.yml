@@ -4,7 +4,7 @@ project:
   
 
 website:
-  title: "[EPI Directors Annual Meeting, Kinshasa 2024](index.qmd)"
+  title: "  **Réunion Annuelle des Directeurs Nationaux du PEV,<br/> Kinshasa 2024**"
   navbar:
     search: true
     background: secondary
@@ -13,24 +13,25 @@ website:
     
     right:
       - href: index.qmd
-        text: Home
-      - text: Registrations
+        text: Accueil
+      - text: Enregistrements
         href: registrations.qmd
-      - text: Schedule
+      - text: Agenda
         href: schedule.qmd
-      - text: Travel
+      - text: Préparation du Voyage
         href: travel.qmd
       - text: Contacts 
         href: about.qmd
 
 format:
   html:
-    theme: simplex
+    theme: Simplex
     mainfont: Lato
+    fontsize: 12pt
     max-width: 2000px
     css: styles.css
     toc: true
-    toc-title: "Jump to"
+    toc-title: "Sur cette page"
 
 
 

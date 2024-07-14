@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the EPI's Directors Annual Regional Meeting"
+title: "RÉUNION ANNUELLE DES DIRECTEURS NATIONAUX DU PROGRAMME ELARGI DE LA VACCINATION POUR L’AFRIQUE CENTRALE"
 format: html
 execute: 
   warning: false
@@ -21,21 +21,24 @@ library(htmlwidgets)
 
 ## Dates and Location
 
-Date: **1^st^ - 7^th^ September 2024**
+Dates: **10^th^ - 12^th^ September 2024**
 
-Venue: **Kinshasa, Democratic Republic of Congo**
+Liew: **Kinshasa, République Démocratique du Congo**
 
-## Welcome Notes 
+## Message de bienvenue
 
 
-It is our pleasure to host the Expanded Programme on Immunization (EPI) Meeting from September 1^st^-7^th^, 2024, in Kinshasa, Democratic Republic of the Congo. We are excited to return to an in-person format for this significant event, bringing together the global community dedicated to immunization and public health.
+Nous avons le plaisir d'accueillir la réunion du Programme élargi de vaccination (PEV) du 1^er^ au 7 septembre 2024 à Kinshasa, en République démocratique du Congo. Nous sommes ravis de revenir à un format en personne pour cet événement important, qui rassemble la communauté mondiale dédiée à la vaccination et à la santé publique.
 
-The EPI Meeting is renowned for uniting immunization experts and public health professionals from various sectors, fostering an environment that encourages dialogue, the exchange of ideas, and cutting-edge scientific research. The theme of this year's meeting is “Immunization and complexity: challenges and responses,” which will cover the full spectrum of contemporary methods and practices in immunization. The meeting will feature esteemed speakers presenting plenary lectures, workshops, and interactive sessions. The programme, driven by submitted abstracts, will include oral and poster presentations showcasing both theoretical and practical aspects from every sub-discipline of immunization. This meeting promises to be an unparalleled opportunity to share experiences and expertise, providing phenomenal opportunities for learning, growth, and networking within the field.
+La réunion du PEV est réputée pour réunir des experts de la vaccination et des professionnels de la santé publique de différents secteurs, dans un environnement qui encourage le dialogue, l'échange d'idées et la recherche scientifique de pointe. Le thème de la réunion de cette année est "Immunisation et complexité : défis et réponses", qui couvrira tout le spectre des méthodes et pratiques contemporaines en matière d'immunisation. Des orateurs de renom présenteront des conférences plénières, des ateliers et des sessions interactives. Le programme, établi sur la base des résumés soumis, comprendra des présentations orales et des affiches illustrant les aspects théoriques et pratiques de chaque sous-discipline de l'immunisation. Cette réunion promet d'être une occasion inégalée de partager les expériences et l'expertise, offrant des possibilités phénoménales d'apprentissage, de croissance et de réseautage dans le domaine.
 
-This is the first time the EPI Meeting will be hosted in the Democratic Republic of the Congo, and Kinshasa offers a vibrant and dynamic setting for our gathering. Kinshasa is a city of rich cultural heritage and diversity, providing a unique backdrop for our meeting.
+C'est la première fois que la réunion du PEV se tient en République démocratique du Congo, et Kinshasa offre un cadre vibrant et dynamique pour notre réunion. Kinshasa est une ville au patrimoine culturel riche et diversifié, qui offre un cadre unique à notre réunion.
 
-We encourage you to take a few days before or after the meeting to explore the beauty and culture of Kinshasa and its surroundings. Additionally, consider visiting other remarkable destinations within the Democratic Republic of the Congo and the region to complement your trip to Kinshasa.
+Nous vous encourageons à prendre quelques jours avant ou après la réunion pour explorer la beauté et la culture de Kinshasa et de ses environs. En outre, envisagez de visiter d'autres destinations remarquables en République démocratique du Congo et dans la région pour compléter votre voyage à Kinshasa.
 
-We invite you to start preparing now for what promises to be a special blend of cutting-edge science in a truly unique setting. We look forward to seeing you in Kinshasa in September 2024!
+Nous vous invitons à commencer à vous préparer dès maintenant à ce qui promet d'être un mélange spécial de science de pointe dans un cadre vraiment unique. Nous nous réjouissons de vous voir à Kinshasa en septembre 2024 !
+
+Le Directeur
+
 
 The Director

@@ -1,12 +1,13 @@
 ---
-title: "Registrations"
+title: "Enregistrements"
 format: html
 ---
 
-## Registration Overview
+## Aperçu de l'inscription
 
-All registrations for the EPI's director meeting must be submitted through the online registration form.
-Please note that it remains the delegate’s duty to research visa prerequisites for DRC and, if deemed necessary, proceed with a visa application. Delegates are strongly encouraged to initiate their visa application at the earliest convenience. For further details, we invite you to explore our Travel section. All registrations must be submitted before XXXXXX.
+Toutes les inscriptions à la réunion des directeurs de l'IMA doivent être soumises via le formulaire d'inscription en ligne.
+Veuillez noter qu'il incombe aux délégués de se renseigner sur les conditions d'obtention d'un visa pour la RDC et, le cas échéant, de procéder à une demande de visa. Les délégués sont vivement encouragés à entamer leur demande de visa le plus tôt possible. Pour plus de détails, nous vous invitons à consulter notre section Voyages. Toutes les inscriptions doivent être soumises avant le XXXXXX.
+
 
 ```{=html}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSclCYRAbO5Y8gF-rhvDnnpuOP3PP3GHud50KBYlea9U-3563w/viewform?embedded=true" width="640" height="2632" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
